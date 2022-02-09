@@ -1,0 +1,15 @@
+ESLint es una herramienta que identifica y reporta patrones y errores en código ECMAScript/JavaScript. Es similar a JS-Lint y JSHint con algunas diferencias:
+
+ESLint usa Espree para analizar JavaScript.
+ESLint usa un AST para evaluar patrones en código.
+ESLint soporta plugins, cada regla es un plugin y puedes agregar más en desarrollo.
+Lecturas recomendadas
+
+ESLint - Pluggable JavaScript linter
+
+https://eslint.org
+
+
+eslint-config-standard/eslintrc.json at master · standard/eslint-config-standard · GitHub
+
+https://github.com/standard/eslint-config-standard/blob/master/eslintrc.json

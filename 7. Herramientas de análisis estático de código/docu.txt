@@ -1,0 +1,49 @@
+Linters: Herramientas de alertas. Nos ayudan a seguir las reglas o convenciones de nuestros equipos sin tener que memorizar todo el libro de reglas; solo debemos programar y asegurarnos de que estas herramientas revisen nuestro código.
+
+Por ejemplo: ESLint, JSHint, CSSComb o scsslint.
+
+Corrección automática: Herramientas que nos ayudan a revisar y arreglar nuestro código sin importar si usamos un editor de código u otro; funcionan para todos los casos y gustos de la comunidad. Por ejemplo: Prettier.
+
+Tipado: JavaScript es lenguaje de tipado dinámico, podemos cambiar el tipo de variables cada vez que queramos o necesitemos. Pero, podemos usar diferentes herramientas para implementar el tipado fuerte, es decir, que podamos usar variables con tipos diferentes al que definimos inicialmente (a menos que hagamos una conversión).
+
+La herramienta de tipado más popular en JavaScript es TypeScript pero tambien existen algunas alternativas como Flow y React PropTypes.
+
+
+Lecturas recomendadas
+
+ESLint - Pluggable JavaScript linter
+
+https://eslint.org
+
+
+Prettier · Opinionated Code Formatter
+
+https://prettier.io
+
+CSScomb: Makes your code beautiful
+
+http://csscomb.com
+
+CSScomb: Makes your code beautiful
+
+http://csscomb.com
+
+
+GitHub - brigade/scss-lint: Configurable tool for writing clean and consistent SCSS
+
+https://github.com/brigade/scss-lint
+
+
+TypeScript - JavaScript that scales.
+
+https://www.typescriptlang.org
+
+
+Flow: A Static Type Checker for JavaScript
+
+https://flow.org
+
+
+Typechecking With PropTypes – React
+
+https://reactjs.org/docs/typechecking-with-proptypes.html

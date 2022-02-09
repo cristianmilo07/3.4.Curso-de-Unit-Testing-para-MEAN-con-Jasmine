@@ -1,0 +1,34 @@
+Prettier es un formateador de código opinado. Aplica un estilo coherente al analizar su código y reimprimirlo con sus propias reglas que toman en cuenta la longitud máxima de la línea, envolviendo el código cuando sea necesario.
+
+Puede ejecutarse en su editor al guardar, en un gancho de confirmación previa o en entornos CI para garantizar que su base de código tenga un estilo coherente sin que los desarrolladores tengan que publicar un comentario minucioso sobre una revisión de código.
+
+Ofrece soporte para:
+
+JavaScript, including ES2017
+JSX
+Angular
+Vue
+Flow
+TypeScript
+CSS, Less, and SCSS
+HTML
+JSON
+GraphQL
+Markdown, including GFM and MDX
+YAML
+Por ejemplo tenemos éste codigo de JavaScript mal formateado:
+
+foo(reallyLongArg(), omgSoManyParameters(), IShouldRefactorThis(), isThereSeriouslyAnotherOne());
+Al pasar Prettier nos lo deja de una manera más legible:
+
+foo(
+  reallyLongArg(),
+  omgSoManyParameters(),
+  IShouldRefactorThis(),
+  isThereSeriouslyAnotherOne()
+);
+Lecturas recomendadas
+
+Prettier · Opinionated Code Formatter
+
+https://prettier.io

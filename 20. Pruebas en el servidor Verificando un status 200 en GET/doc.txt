@@ -1,0 +1,5 @@
+Los “espías” son funciones de prueba que interceptan las llamadas a una función y recolectan datos sobre lo que sucede dentro ella: el número de veces que se llama una función, con qué parámetros y los valores de retorno de la función (o, si lanzó excepciones, los mensajes y la información del error).
+
+Vamos a configurar un servidor exclusivo para ejecutar las pruebas unitarias de nuestra aplicación. Recuerda que NO vamos a probar la conexión con la base de datos, solo la interacción del servidor con la aplicación Front End. Por lo tanto, vamos a crear un servidor con la mínima configuración posible para hacer peticiones y probar que funcione correctamente.
+
+Recuerda que usamos el método HTTP GET para solicitar datos de nuestra aplicación, no para borrar, actualizar oagregar información; solo visualizarla.

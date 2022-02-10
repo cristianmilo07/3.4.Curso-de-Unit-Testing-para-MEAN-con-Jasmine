@@ -1,0 +1,3 @@
+Vamos a crear las pruebas unitarias de una aplicación construida con el Stack MEAN: Node.js y Express.js en el backend, MongoDB como base de datos y Angular (con TypeScript) en el frontend.
+
+Vamos a probar la interacción del frontend (Angular) con el servidor o con los clientes y cómo interactúa el servidor con el framework que hace las consultas a la base de datos y con el cliente que hace las peticiones. NO vamos a probar la base de datos directamente.

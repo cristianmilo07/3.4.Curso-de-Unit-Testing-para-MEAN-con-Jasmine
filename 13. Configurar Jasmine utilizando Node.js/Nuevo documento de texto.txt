@@ -1,0 +1,14 @@
+Gracias a Node.js obtenemos algunas ventajas para desarrollar y probar nuestras aplicaciones. Necesitamos un archivo package.json, en caso de que tu proyecto no lo tenga todavía, puedes crearlo ejecutando el siguiente comando:
+
+Vamos a necesitar un archivo package.json
+
+npm init
+Debemos ejecutar los siguientes comandos para instalar e iniciar Jasmine en nuestro proyecto con Node.js:
+
+npm install --save-dev jasmine
+node node_modules/jasmine/bin/jasmine init
+Por último, para correr las pruebas que vamos a crear en las próximas clases, debemos agregar un nuevo script en nuestro package.json y ejecutarlo con el comando npm test:
+
+"scripts": {
+    "test": "jasmine"
+}

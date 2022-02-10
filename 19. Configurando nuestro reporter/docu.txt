@@ -1,0 +1,10 @@
+Los sistemas de reportes nos ayudan a navegar entre la información para saber cuánta cobertura tiene nuestro código con la red de seguridad que estamos programando.
+
+Vamos a usar la librería IstanbulJS:
+
+npm install --save-dev nyc
+"scripts": {
+  ...
+  "test:server:coverage": "nyc node spec/specs.js",
+  ...
+}

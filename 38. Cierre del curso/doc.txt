@@ -1,0 +1,11 @@
+
+!Felicitaciones por terminar el Curso de Unit Testing con Jasmine!
+
+En este curso aprendimos a trabajar con Jasmine a nivel profesional: integramos servicios, componentes y templates para detectar errores de forma automática ya que se nos pueden escapar cuando revisamos nuestro código a simple vista.
+
+Vamos a repasar algunas buenas prácticas para trabajar en Unit Testing:
+
+Usar un sistema de control versiones como GIT para facilitar la revisión de código con nuestros equipos y configurar herramientas de buenas prácticas (como linters y herramientas de tipado).
+Crear archivos separados con el stub de una clase específica en vez de crear stubs en cada uno de nuestros archivos de pruebas.
+Tu fuente de información siempre debe ser la página oficial de las herramientas que estas utilizando, en este caso, a la documentación oficial de Jasmine: jasmine.github.io.
+Recuerda dejar todas tus dudas y comentarios en el sistema de discusiones de Platzi o contactando a nuestro profe por sus redes sociales ????.

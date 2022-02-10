@@ -1,0 +1,7 @@
+Existen cinco tipos de pruebas, las cuales son:
+
+Unitarias: es una forma de comprobar el correcto funcionamiento de una unidad de código.
+Integración: son aquellas que se realizan en el ámbito del desarrollo de software una vez que se han aprobado las pruebas unitarias y lo que prueban es que todos los elementos unitarios que componen el software, funcionan juntos correctamente probándolos en grupo.
+Funcionales: es una prueba de tipo caja negra basada en la ejecución, revisión y retroalimentación de las funcionalidades previamente diseñadas para el software.
+Carga/estrés: la prueba de carga prueba de rendimiento utilizado para evaluar cómo actúa el sistema con una carga variable de usuarios pero dentro de los niveles esperados de la aplicación. Una prueba de estrés evalúa el sistema sometiéndolo a una carga creciente hasta que este falle.
+Aceptación: pertenecen a las últimas etapas previas a la liberación en firme de versiones nuevas a fin de determinar si cumplen con las necesidades y/o requerimientos de las empresas y sus usuarios.

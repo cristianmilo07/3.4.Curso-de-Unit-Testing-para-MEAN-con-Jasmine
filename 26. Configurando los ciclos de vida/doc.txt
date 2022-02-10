@@ -1,0 +1,3 @@
+Vamos a probar el objeto de configuración de las rutas de nuestra aplicación, el archivo app.routing.module.ts. Debemos exportar la variable routes con la palabra reservada export const routes ... para probarla desde nuestro nuevo archivo de pruebas: app.routing.module.spec.ts.
+
+Recuerda que podemos reemplazar la función describe por fdescribe para solo ejecutar y probar esta parte de nuestra aplicación. Además, tenemos disponibles 4 nuevos módulos para configurar variables o código especial antes y después de la ejecución de cada prueba o de la totalidad de ellas: las funciones beforeAll(), beforeEach, afterAll() y afterEach().
